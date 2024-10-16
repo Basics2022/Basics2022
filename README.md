@@ -9,7 +9,7 @@ A second ambitious objective aims to bring together traditional teaching and mor
 
 My background is quite a technical one, so I'm starting from Math, Physics, and Introduction to Programming. I'm starting with Italian language, 🇮🇹, since I'm living in Italy and I'd like to target first the high-school. Next steps is the English version.
 
-Feel free to reach out, for collaboration.
+Feel free to reach out, for collaboration and/or support.
 
 
 <!--
